@@ -1,12 +1,12 @@
 [![Health Check](../../actions/workflows/health-check.yml/badge.svg)](../../actions/workflows/health-check.yml)
 
-# Statsig's Open-Source Status Page
+#Open-Source Status Page
 
 We tried various Status Pages out there, and built this as a fun little hobby project to make status pages as simple as possible.
 
 ## Demo
 
-- https://status.statsig.com
+- https://status.m
 
 ## Setup instructions
 
@@ -45,6 +45,6 @@ Send in a PR - we'd love to integrate your ideas.
 
 ## In case...
 
-You are looking for a developer friendly Feature flags, and A/B experimentation service for your product, check out: https://www.statsig.com
+You are looking for a developer friendly Feature flags, and A/B experimentation service for your product, check out: 
 
 ![Statsig status page](https://user-images.githubusercontent.com/74588208/146078161-778fcb99-4a59-4e39-9fc0-abef18d5ac52.png)
