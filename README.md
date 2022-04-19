@@ -27,7 +27,7 @@ key2=https://statsig.com
 
 4. Set up GitHub Pages for your repository.
 
-![image](https://user-images.githubusercontent.com/74588208/121419015-5f4dc200-c920-11eb-9b14-a275ef5e2a19.png)
+![image](https://user-images.githubusercontent.com/74588208/121419015-5f4dc200-c920-11eb-9b14-a275ef5e2a19.png
 
 ## How does it work?
 
